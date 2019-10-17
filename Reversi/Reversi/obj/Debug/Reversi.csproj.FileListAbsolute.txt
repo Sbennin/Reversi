@@ -1,0 +1,27 @@
+\\2252-cms-01\2252 students$\562247\documents\visual studio 2013\Projects\Reversi\Reversi\bin\Debug\Reversi.exe.config
+\\2252-cms-01\2252 students$\562247\documents\visual studio 2013\Projects\Reversi\Reversi\bin\Debug\Reversi.exe
+\\2252-cms-01\2252 students$\562247\documents\visual studio 2013\Projects\Reversi\Reversi\bin\Debug\Reversi.pdb
+\\2252-cms-01\2252 students$\562247\documents\visual studio 2013\Projects\Reversi\Reversi\obj\Debug\Reversi.csprojResolveAssemblyReference.cache
+\\2252-cms-01\2252 students$\562247\documents\visual studio 2013\Projects\Reversi\Reversi\obj\Debug\Reversi.Properties.Resources.resources
+\\2252-cms-01\2252 students$\562247\documents\visual studio 2013\Projects\Reversi\Reversi\obj\Debug\Reversi.csproj.GenerateResource.Cache
+\\2252-cms-01\2252 students$\562247\documents\visual studio 2013\Projects\Reversi\Reversi\obj\Debug\Reversi.exe
+\\2252-cms-01\2252 students$\562247\documents\visual studio 2013\Projects\Reversi\Reversi\obj\Debug\Reversi.pdb
+\\2252-CMS-01\2252 Students$\562247\Documents\Visual Studio 2013\Projects\Reversi\Reversi\obj\Debug\Reversi.Reversi.resources
+G:\Documents\Visual Studio 2013\Projects\Reversi\Reversi\bin\Debug\Reversi.exe.config
+G:\Documents\Visual Studio 2013\Projects\Reversi\Reversi\obj\Debug\Reversi.exe
+G:\Documents\Visual Studio 2013\Projects\Reversi\Reversi\obj\Debug\Reversi.pdb
+G:\Documents\Visual Studio 2013\Projects\Reversi\Reversi\obj\Debug\Reversi.csprojResolveAssemblyReference.cache
+G:\Documents\Visual Studio 2013\Projects\Reversi\Reversi\obj\Debug\Reversi.Reversi.resources
+G:\Documents\Visual Studio 2013\Projects\Reversi\Reversi\obj\Debug\Reversi.Properties.Resources.resources
+G:\Documents\Visual Studio 2013\Projects\Reversi\Reversi\obj\Debug\Reversi.csproj.GenerateResource.Cache
+G:\Documents\Visual Studio 2013\Projects\Reversi\Reversi\bin\Debug\Reversi.exe
+G:\Documents\Visual Studio 2013\Projects\Reversi\Reversi\bin\Debug\Reversi.pdb
+E:\Reversi\Reversi\bin\Debug\Reversi.exe.config
+E:\Reversi\Reversi\obj\Debug\Reversi.exe
+E:\Reversi\Reversi\obj\Debug\Reversi.pdb
+E:\Reversi\Reversi\bin\Debug\Reversi.exe
+E:\Reversi\Reversi\bin\Debug\Reversi.pdb
+E:\Reversi\Reversi\obj\Debug\Reversi.csprojResolveAssemblyReference.cache
+E:\Reversi\Reversi\obj\Debug\Reversi.Reversi.resources
+E:\Reversi\Reversi\obj\Debug\Reversi.Properties.Resources.resources
+E:\Reversi\Reversi\obj\Debug\Reversi.csproj.GenerateResource.Cache
